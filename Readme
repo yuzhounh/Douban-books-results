@@ -15,6 +15,9 @@ RV4, rating>=8.0, votes>=10000, number=470
 RV5, rating>=9.0, votes>=100,   number=3181
 RV5, rating>=9.0, votes>=0,     number=5433
 
+stat, the distribution of ratings when votes are larger than a certain 
+threshold
+
 Contact information:
 Jing Wang
 wangjing0@seu.edu.cn
