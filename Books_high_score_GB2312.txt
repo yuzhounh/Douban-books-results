@@ -1,4 +1,4 @@
-ID, Score, Rating, Votes, Title
+ID, Rating, Votes, Title
 1007305, 9.5, 112402, 红楼梦 
 1084336, 9.0, 210939, 小王子 
 3259440, 9.1, 172336, 白夜行 
