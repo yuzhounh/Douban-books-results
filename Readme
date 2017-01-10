@@ -19,7 +19,7 @@ Distribution
 rating, the distribution of ratings when votes are larger than a certain threshold
 score, the distribution of integrated scores when votes are larger than a certain threshold
 votes_1_rating, the distribution of votes when ratings are in a certain range
-votes_1_score, the distribution of votes when integrated score are in a certain range 
+votes_1_score, the distribution of votes when integrated scores are in a certain range 
 
 Contact information:
 Jing Wang
