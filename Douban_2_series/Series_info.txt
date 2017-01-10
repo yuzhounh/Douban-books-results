@@ -1,0 +1,6 @@
+Note ID, Number of Series 
+601214234, 55 
+The total number of notes: 1
+The total number of Series: 55 
+The number of duplicated Series: 0 
+The number of remaining Series: 55 
