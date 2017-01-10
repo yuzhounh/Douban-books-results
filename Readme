@@ -18,8 +18,8 @@ RV6, rating>=9.0, votes>=0,     number=5433
 Distribution
 rating, the distribution of ratings when votes are larger than a certain threshold
 score, the distribution of integrated scores when votes are larger than a certain threshold
-votes_1_rating, the distribution of votes when ratings are in a certain range
-votes_2_score, the distribution of votes when integrated scores are in a certain range 
+votes_1_rating, the distribution of votes when ratings are in a certain range, only the smallest 80% votes are counted
+votes_2_score, the distribution of votes when integrated scores are in a certain range , only the smallest 90% votes are counted
 
 Contact information:
 Jing Wang
