@@ -1,19 +1,21 @@
 Douban books grabbed from doulists
 Copyright (C) 2017 Jing Wang
 
-The doulists are listed in note: 601066353, 601066081, 601062791.
-The number of books: 34636
+Douban
+doulist, the doulists in notes: 601066353, 601066081, 601062791
+series, the series in notes: 601214234
+tag, hot tags
 
 Books
-sorted, sorted by an integrated score, number=34636
-high_score, books with integrated scores higher than a certain threshold, number=3195
-sorted_rating, sorted by the rating, number=34636
 RV1, rating>=9.0, votes>=1000,  number=884
 RV2, rating>=8.0, votes>=300,   number=7969
 RV3, rating>=8.5, votes>=0,     number=13462
 RV4, rating>=8.0, votes>=10000, number=470
 RV5, rating>=9.0, votes>=100,   number=3181
 RV6, rating>=9.0, votes>=0,     number=5433
+high_score, books with high integrated scores, number=3195
+sorted, sorted by an integrated score, number=34636
+sorted_rating, sorted by the rating, number=34636
 
 Distribution
 rating, the distribution of ratings when votes are larger than a certain threshold
