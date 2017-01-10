@@ -1,0 +1,8 @@
+Note ID, Number of doulists 
+601066353, 14 
+601066081, 83 
+601062791, 294 
+The total number of notes: 3
+The total number of doulists: 391 
+The number of duplicated doulists: 43 
+The number of remaining doulists: 348 
