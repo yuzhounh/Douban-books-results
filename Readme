@@ -21,7 +21,7 @@ Distribution
 rating, the distribution of ratings when votes are larger than a certain threshold
 score, the distribution of integrated scores when votes are larger than a certain threshold
 votes_1_rating, the distribution of votes when ratings are in a certain range, only the smallest 80% votes are counted
-votes_2_score, the distribution of votes when integrated scores are in a certain range , only the smallest 90% votes are counted
+votes_2_score, the distribution of votes when integrated scores are in a certain range, only the smallest 90% votes are counted
 
 Note: I think decentralization is a key feature of Douban and it is really valuable. The above results are provided only for your reference. 
 
