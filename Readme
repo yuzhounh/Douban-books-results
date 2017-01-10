@@ -4,9 +4,9 @@ Copyright (C) 2017 Jing Wang
 The doulists are listed in note: 601066353, 601066081, 601062791.
 The number of books: 34636
 
+Books
 sorted, sorted by an integrated score, number=34636
-high_score, books with integrated scores higher than a certain threshold, 
-number=3195
+high_score, books with integrated scores higher than a certain threshold, number=3195
 sorted_rating, sorted by the rating, number=34636
 RV1, rating>=9.0, votes>=1000,  number=884
 RV2, rating>=8.0, votes>=300,   number=7969
@@ -15,14 +15,12 @@ RV4, rating>=8.0, votes>=10000, number=470
 RV5, rating>=9.0, votes>=100,   number=3181
 RV6, rating>=9.0, votes>=0,     number=5433
 
-distribution_rating, the distribution of ratings when votes are larger 
-than a certain threshold
-distribution_score, the distribution of integrated scores when votes are 
-larger than a certain threshold
-distribution_votes_1_rating, the distribution of votes when ratings are in 
-a certain range
-distribution_votes_1_score, the distribution of votes when integrated 
-score are in a certain range 
+Distribution
+rating, 
+the distribution of ratings when votes are larger than a certain threshold
+score, the distribution of integrated scores when votes are larger than a certain threshold
+votes_1_rating, the distribution of votes when ratings are in a certain range
+votes_1_score, the distribution of votes when integrated score are in a certain range 
 
 Contact information:
 Jing Wang
