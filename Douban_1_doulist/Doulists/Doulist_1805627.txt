@@ -1,0 +1,26 @@
+Doulist, Number of Books 
+1805627, 23 
+
+ID, Score, Rating, Votes, Date, Title 
+25804417, 23.7, 8.1, 69, 2014-4-15, Essentialism 
+6984370, 20.8, 8.5, 32, 2012-4-10, The Practicing Mind 
+5412254, 24.4, 8.4, 63, 2010-12-30, The Personal MBA 
+6075190, 21.3, 8.5, 35, 2011-2-16, Pitch Anything 
+3371227, 30.6, 8.3, 196, 2007-12-26, Mindset 
+2080679, 25.1, 7.8, 114, 2007-4-24, The 4-Hour Workweek 
+11908189, -4.9, 0.0, 7, 2013-3-26, Decisive 
+6007642, 16.4, 7.9, 21, 2010-12-28, Mindsight 
+4063223, 21.9, 8.3, 44, 2009-9-15, Just Listen 
+6754574, 43.1, 8.9, 840, 2011-10-25, Thinking, Fast and Slow 
+4280621, 36.1, 8.9, 283, 2010, Business Model Generation 
+3886326, -2.7, 0.0, 3, 2007-01-09, Made to Stick 
+7043452, 39.7, 9.0, 447, 2011-12-29, The Willpower Instinct 
+1481245, 25.2, 8.1, 90, 2002-6-18, Crucial Conversations 
+4442575, 21.8, 9.2, 26, 2009-11-21, Before &amp; After 
+5921213, 48.5, 8.5, 3261, 2011-1-1, MBA教不了的创富课 
+6779576, 36.2, 8.7, 344, 2011-9-13, The Lean Startup 
+1440223, 41.7, 8.4, 1177, 18 August, 2005, Don&#39;t Make Me Think 
+1769449, 37.4, 8.5, 507, 2005-2, Never Eat Alone 
+2121856, 35.8, 9.0, 247, 2006-12-26, Influence 
+4759840, 51.8, 9.6, 1476, 2010-5-1, Merriam-Webster&#39;s Vocabulary Builder 
+1433835, 48.9, 9.1, 1647, 1999-8-2, The Elements of Style, Fourth Edition 

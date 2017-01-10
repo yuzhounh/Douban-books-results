@@ -1,0 +1,29 @@
+Doulist, Number of Books 
+127649, 41 
+
+ID, Score, Rating, Votes, Date, Title 
+1829747, 41.5, 9.0, 597, 2006-2-10, Asking the Right Questions 
+1221479, 45.8, 8.8, 1438, 2005-2-1, 与“众”不同的心理学 
+1944205, 44.0, 8.9, 969, 2007-1, 追寻记忆的痕迹 
+1315575, 35.0, 8.3, 418, 1998, 找寻逝去的自我 
+1456890, 32.6, 9.0, 150, 2004-04-05, How to Solve It 
+1135754, 44.2, 8.1, 2667, 2003-1, 你的灯亮着吗? 
+2383735, 22.6, 8.8, 36, 1993-3-5, How We Know What Isn&#39;t So 
+1883984, 28.6, 8.8, 94, 2000-1-1, A Rulebook for Arguments 
+1694036, 14.7, 7.5, 19, 2004-10-3, Crimes Against Logic 
+3440613, 30.4, 8.4, 174, 2009-02-09, How We Decide 
+2979734, 24.7, 9.0, 45, 2002-9-6, Nonsense 
+1874488, 47.5, 8.1, 4790, 2006-8, 别做正常的傻瓜 
+1193621, 46.6, 8.5, 2368, 2004-9, 决策与判断 
+3324610, 33.2, 7.4, 870, 2009-01, 摇摆 
+2841807, 17.0, 8.1, 21, 2000, Why Smart People Make Big Money Mistakes and How to Correct Them 
+2990015, 40.2, 8.6, 728, 2008-2-19, Predictably Irrational 
+1722049, 27.9, 7.7, 212, 2005-10, 无从选择 
+3287264, 25.6, 8.8, 58, 2008-3, Mistakes Were Made 
+1476760, 15.6, 8.0, 17, 2000-9, Simple Heuristics That Make Us Smart 
+1599035, 29.2, 8.4, 141, 2002-9, 简捷启发式 
+1001737, 34.0, 8.0, 484, 1999-09, 失败的逻辑 
+1890698, -1.7, 0.0, 2, 2004-9, Blackwell Handbook of Judgment and Decision Making (Blackwell Handbooks of Experimental Psychology) 
+2774407, 14.0, 7.8, 14, 2003, Advances in Behavioral Economics 
+2345245, 22.1, 9.2, 27, 2003-1-28, Synaptic Self 
+1134230, 36.4, 9.0, 272, 2001-7, 数学与猜想（第一卷） 
