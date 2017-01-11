@@ -1,0 +1,49 @@
+Tag: J.K.罗琳 
+The number of books: 45 
+
+ID, Rating, Votes, Title
+1041007, 9.0, 82342, 哈利·波特与魔法石 
+1071241, 8.9, 70048, 哈利·波特与阿兹卡班的囚徒 
+1009257, 8.9, 67959, 哈利·波特与火焰杯 
+1039487, 8.8, 67776, 哈利·波特与密室 
+2295163, 8.9, 53386, 哈利·波特与死亡圣器 
+1432596, 8.8, 59506, 哈利·波特与混血王子 
+1013129, 8.6, 56096, 哈利·波特与凤凰社 
+2363651, 8.2, 13368, 十四堂人生创意课 
+1736652, 9.1, 1016, 哈利•波特(共6册) (精装) 
+3338175, 7.9, 4366, 诗翁彼豆故事集 
+1028779, 8.1, 2589, 神奇动物在哪里 
+19898714, 7.6, 3668, 偶发空缺 
+26725405, 7.9, 2168, Harry Potter and the Cursed Child 
+1084341, 7.8, 2028, 神奇的魁地奇球 
+1949400, 9.4, 335, HARRY POTTER and the Philosopher s Stone(1-6) 
+25697249, 9.7, 209, 哈利.波特电影魔法书 
+2362709, 9.1, 306, Harry Potter and the Half-Blood Prince 
+2281184, 7.7, 868, 哈利·波特百科全书 
+25840545, 7.2, 1625, 布谷鸟的呼唤 
+2158211, 9.1, 128, 哈里波特套装1-6 Harry Potter Boxed Set 
+6872645, 9.9, 71, Harry Potter Page to Screen 
+26352281, 7.5, 461, 蚕 
+1095495, 6.8, 950, 哈利·波特的魔法世界 
+1743005, 8.4, 145, 孤独的心 
+3485760, 9.8, 42, Harry Potter - The Complete Story: Collected Audio Edition [Audiobook] 
+3410007, 9.2, 57, The Complete Harry Potter Collection 
+5355702, 7.4, 230, 哈利·波特的哲学世界 
+6774137, 8.1, 109, 哈利·波特百科全书 
+1458404, 7.9, 130, 哈利·波特密匙 
+2333801, 8.2, 67, Harry Potter and the Chamber of Secrets 
+6064691, 8.6, 48, Fantastic Beasts and Where to Find Them 
+1256254, 7.2, 147, 魔法师的同伴 
+26854188, 8.3, 56, 罪恶生涯 
+1895107, 7.1, 159, 霍格沃茨的中国留学生-哈利波特 
+2161229, 7.7, 81, 哈利波特6+1之神秘事务司 
+3784383, 9.4, 27, Harry Potter Paperback Box Set 
+21993097, 9.5, 25, Special Edition Harry Potter Paperback Box Set 
+6021105, 7.4, 88, 哈利·波特的书架 
+21993090, 9.5, 19, Harry Potter and the Prisoner of Azkaban - Book 3 
+1732237, 8.5, 21, Harry Potter and the Prisoner of Azkaban 
+25885585, 7.2, 34, J.K.罗琳:生命是一个奇迹 
+2189619, 8.4, 15, Harry Potter Boxset Books 1-7 
+2478635, 7.4, 19, Harry Potter and International Relations 
+25880787, 7.2, 17, 哈利·波特与心理学 
+1127355, 4.6, 101, 哈利·波特与瓷娃娃 
