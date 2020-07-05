@@ -1,6 +1,9 @@
 # Douban books grabbed from doulists, series, and tags
 Copyright (C) 2017 Jing Wang
 
+Update: https://github.com/yuzhounh/Douban-books-2020
+2020-7-5 19:47:57
+
 See an updated version of results in: https://github.com/yuzhounh/Douban_books_2017.  
 Much more books (129193, compared to 34636 in this repository) are grabbed and analyzed in the new repository.  
 2017-1-23 17:07:57
